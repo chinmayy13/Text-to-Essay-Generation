@@ -8,7 +8,7 @@
 Clone the repository
 
 ```bash
-https://github.com/BhanuPratap16/Llama-2-Project.git
+https://github.com/chinmayy13/Text-to-Essay-Generation
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
